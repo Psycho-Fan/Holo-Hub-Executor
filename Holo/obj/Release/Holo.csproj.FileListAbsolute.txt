@@ -1,0 +1,12 @@
+C:\Users\PsYcH\source\repos\Holo\Holo\bin\Release\Holo.exe.config
+C:\Users\PsYcH\source\repos\Holo\Holo\bin\Release\Holo.exe
+C:\Users\PsYcH\source\repos\Holo\Holo\bin\Release\Holo.pdb
+C:\Users\PsYcH\source\repos\Holo\Holo\bin\Release\cxapis.dll
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.csproj.AssemblyReference.cache
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.Form1.resources
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.Properties.Resources.resources
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.csproj.GenerateResource.cache
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.csproj.CoreCompileInputs.cache
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.csproj.Up2Date
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.exe
+C:\Users\PsYcH\source\repos\Holo\Holo\obj\Release\Holo.pdb
